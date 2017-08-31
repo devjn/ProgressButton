@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/devjn/ProgressButton.svg)](https://jitpack.io/#devjn/ProgressButton)
+
 <img src="https://github.com/nihasKalam07/ProgressButton/blob/master/screenshots/Screenshot1_framed.png" width="350px" height="600px" /> <img src="https://github.com/nihasKalam07/ProgressButton/blob/master/screenshots/Screenshot_framed.png" width="350px" height="600px" />
 
 # User Guide
