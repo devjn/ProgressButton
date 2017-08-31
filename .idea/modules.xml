@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Sample.iml" filepath="$PROJECT_DIR$/Sample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgressButton.iml" filepath="$PROJECT_DIR$/ProgressButton.iml" />
+      <module fileurl="file://E:\Development\GitHub\ForkWorkspace\ProgressButton\Sample.iml" filepath="E:\Development\GitHub\ForkWorkspace\ProgressButton\Sample.iml" />
+      <module fileurl="file://E:\Development\GitHub\ForkWorkspace\ProgressButton\app\app.iml" filepath="E:\Development\GitHub\ForkWorkspace\ProgressButton\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/progressbuttonlibrary/progressbuttonlibrary.iml" filepath="$PROJECT_DIR$/progressbuttonlibrary/progressbuttonlibrary.iml" />
+      <module fileurl="file://E:\Development\GitHub\ForkWorkspace\ProgressButton\progressbuttonlibrary\progressbuttonlibrary.iml" filepath="E:\Development\GitHub\ForkWorkspace\ProgressButton\progressbuttonlibrary\progressbuttonlibrary.iml" />
     </modules>
   </component>
 </project>
